@@ -11,7 +11,3 @@ kv_namespaces = [
 [triggers]
 crons = ["*/2 * * * *"] 
 
-[vars]
-COOKIE_SECRET = "61450d897aff97dcbb0872c2161130ff2ffd8d1af309eaa1ca4ceb29b9fde075"
-KEEPALIVE_SECRET = "f03ce90a1b4abc15986cebaf106d84bef5752c7b7ca0bf885effb982ef4af697"
-UI_PIN = "Ad_930512"
