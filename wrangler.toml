@@ -4,7 +4,7 @@ compatibility_date = "2025-01-01"
 
 # Create a KV namespace and paste its ID here
 kv_namespaces = [
-  { binding = "PROJECTS_KV", id = "Supabase_Keepalive" }
+  { binding = "PROJECTS_KV", id = "5f0b2c492c974348bc2d663f1dc30587" }
 ]
 
 # Daily keepalive at 09:00 UTC
